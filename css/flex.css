@@ -103,12 +103,11 @@
     
     .button {
         background-color: #5f5cd8;
-        background-color: #5f5cd8;
         padding: 7px 3px;
         line-height: 18px;
         border-collapse: collapse;
         border: thin;
-        color: #cddbfe;
+        color: white;
     }
     
     .new {
@@ -150,9 +149,17 @@
         flex: 1;
     }
     
-    dot {
+    .dot {
         color: #32c48d;
         ;
+    }
+    
+    .left {
+        float: left;
+    }
+    
+    .right {
+        float: right;
     }
     
     </style>
